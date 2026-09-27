@@ -5,7 +5,7 @@ Repozytorium założone na zajęciach z **Praktycznych aspektów pracy Data Scie
 ## Autor
  
 - Imię i nazwisko: Agata Lizoń
-- Czym się zajmuję: Data Analysis student working in geodesy, developing programming skills and building my first projects.
+- Czym się zajmuję: Studentka analizy danych na co dzień pracująca w geodezji, rozwijająca swoje umiejętności programistyczne i budująca pierwsze projekty.
  
 ## Czego się tu uczę
  
