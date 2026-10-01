@@ -4,3 +4,7 @@ print("Liczba ocen:", len(wyniki))
 print("Średnia:", statistics.mean(wyniki))
 print("Maks ocena:", max(wyniki))
 print("Mediana:", statistics.median(wyniki))
+
+
+#odchylene standardowe
+statistics.stdev(wyniki)
